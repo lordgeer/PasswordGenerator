@@ -4,7 +4,7 @@ This is a unique password creation tool
 
 ## Installation
 
-Load up the page at
+Load up the page at https://lordgeer.github.io/PasswordGenerator/
 
 ## Usage
 Follow all propmts given, and please, please don't hit cancel on the first prompt, I can't stop you from doing it...but it won't give you a password with 0 as the length.
